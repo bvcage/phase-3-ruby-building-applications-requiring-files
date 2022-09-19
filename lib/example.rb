@@ -1,3 +1,5 @@
+require_relative './garden'
+
 class Garden
   attr_accessor :name
 
